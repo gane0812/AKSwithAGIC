@@ -1,7 +1,7 @@
 # AKS + Application Gateway Ingress Controller (AGIC) — Terraform Deployment
 
 Deploy two containerised web applications on Azure Kubernetes Service, exposed through an Azure Application Gateway using the AGIC add-on. All infrastructure is provisioned with Terraform.
-
+![Architecture](AKSwithAGIC.png)
 ---
 
 ## Architecture
